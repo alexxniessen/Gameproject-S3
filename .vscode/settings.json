@@ -6,7 +6,7 @@
 		"**/CVS": true,
 		"**/.DS_Store": true,
 		"**/*.o": true,
-		"**/*.exe": true,
+		"**/*.exe": false,
 	},
 	"github.copilot.chat.languageContext.typescript7.enabled": true,
 	"github.copilot.chat.languageContext.inline.typescript.enabled": true,
